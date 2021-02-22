@@ -43,7 +43,7 @@ To run these project on the development enviroment:
 
 ## Usage 
 Screen shot 
-* ![alt text](/assets/images/Screenshot(10).png)
+* ![Screenshot](https://user-images.githubusercontent.com/77768986/108643354-16502b80-745f-
 
 
 ## Credits
