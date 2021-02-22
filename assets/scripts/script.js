@@ -18,6 +18,9 @@ var randomFunc = {
 }
 // generate event listener
 generateEl.addEventListener("click", function() {
+  
+
+  
   var length = +lengthEl.value;
   var hasLower =lowercaseEl.checked;
   var hasUpper =uppercaseEl.checked;
@@ -45,7 +48,8 @@ function generatePassword(lower, upper, number, symbol, length) {
   
 
   if(typesCount === 0) {
-    return '';
+     
+    return alert("please select something!");
  }
 
  //  loop over length call generator function for each type
@@ -62,6 +66,7 @@ function generatePassword(lower, upper, number, symbol, length) {
 // add final password
 var finalPassword = generatePassword.slice(0, length);
 return finalPassword;
+
 
 
 }
