@@ -9,9 +9,9 @@
   * * NOTE: you can play around all the functions there until your desired password is generated.
 
   Here is a link to deploy my application:
-   * 
+   * Repo: https://github.com/senait77/password-generator
 
-   * 
+   * deploy: https://senait77.github.io/password-generator/
 
 
 
