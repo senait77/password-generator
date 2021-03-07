@@ -43,7 +43,7 @@ To run these project on the development enviroment:
 
 ## Usage 
 Screen shot 
-* ![password generator demo](./images/Screenshot.png)
+* ![password generator demo](./assets/images/Screenshot.png)
 
 
 
