@@ -43,7 +43,7 @@ To run these project on the development enviroment:
 
 ## Usage 
 Screen shot 
-* ![Screenshot](https://user-images.githubusercontent.com/77768986/108643354-16502b80-745f-11eb-883e-3a4646b1b7d6.png)
+* ![password generator demo](./images/Screenshot.png)
 
 
 
