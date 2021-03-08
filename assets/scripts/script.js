@@ -52,6 +52,17 @@ function generatePassword(lower, upper, number, symbol, length) {
     return alert("please select something!");
  }
 
+
+ if(lengthEl.value < 8) {
+     
+  return alert("please enter at least 8 characters.");
+}
+
+if(lengthEl.value > 128) {
+     
+  return alert("You should not ecxeed more than 128 characters.");
+}
+
  //  loop over length call generator function for each type
 
  for (let i=0; i < length; i += typesCount) {
